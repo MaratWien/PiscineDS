@@ -1,6 +1,6 @@
-#!hfunctio\Scripts\python.exe
+#!hfunctio/bin/python3
 import os
 
 
 if __name__ == '__main__':
-    print(f"Current virtual environment - {os.environ['VIRTUAL_ENV']}")
+    print('Your current virtual env is ' + os.environ['VIRTUAL_ENV'])
