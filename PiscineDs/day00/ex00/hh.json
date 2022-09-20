@@ -1,0 +1,1475 @@
+{
+  "items": [
+    {
+      "id": "68025519",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 250000,
+        "to": 300000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Новослободская улица",
+        "building": "73с1",
+        "description": null,
+        "lat": 55.790367,
+        "lng": 37.589805,
+        "raw": "Москва, Новослободская улица, 73с1",
+        "metro": {
+          "station_name": "Савёловская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.128",
+          "line_id": "9",
+          "lat": 55.794054,
+          "lng": 37.587163
+        },
+        "metro_stations": [
+          {
+            "station_name": "Савёловская",
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.128",
+            "line_id": "9",
+            "lat": 55.794054,
+            "lng": 37.587163
+          }
+        ],
+        "id": "1089197"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-14T12:24:12+0300",
+      "created_at": "2022-08-14T12:24:12+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68025519",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68025519?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68025519/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68025519",
+      "relations": [],
+      "employer": {
+        "id": "3151408",
+        "name": "Ассоциация IPChain",
+        "url": "https://api.hh.ru/employers/3151408",
+        "alternate_url": "https://hh.ru/employer/3151408",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/644675.jpg",
+          "90": "https://hhcdn.ru/employer-logo/3019848.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3019849.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3151408",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Разбираешься в математической статистике и теории вероятностей и знаешь, как проводить A/B тестирования. Анализировать большие объёмы информации, чтобы выявить...",
+        "responsibility": "Проект: FonMix https://fonmix.ru/ - b2b плеер для озвучки коммерческих площадей: ресторанов, торговых центров, крупных сетевых магазинов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68620702",
+      "premium": false,
+      "name": "Data Scientist / ML Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 200000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "проспект Вернадского",
+        "building": "29",
+        "description": null,
+        "lat": 55.681712,
+        "lng": 37.516449,
+        "raw": "Москва, проспект Вернадского, 29",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6040213"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T17:05:05+0300",
+      "created_at": "2022-08-15T17:05:05+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68620702",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68620702?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68620702/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68620702",
+      "relations": [],
+      "employer": {
+        "id": "2334358",
+        "name": "Айти Прайм",
+        "url": "https://api.hh.ru/employers/2334358",
+        "alternate_url": "https://hh.ru/employer/2334358",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3627707.png",
+          "240": "https://hhcdn.ru/employer-logo/3627708.png",
+          "original": "https://hhcdn.ru/employer-logo-original/796705.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2334358",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы с Python 3 (numpy, pandas) от 1 года. Опыт работы с Matplotlib, Plotly. Опыт работы с библиотеками Scikit...",
+        "responsibility": "Работать с маркет-датой и биржевыми данными. Проводить статистические исследования, искать скрытые закономерности, визуализировать и интерпретировать полученные результаты. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68793921",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 200000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Большая кольцевая линия",
+        "building": "метро Деловой центр",
+        "description": null,
+        "lat": 55.749101,
+        "lng": 37.540129,
+        "raw": "Москва, Большая кольцевая линия, метро Деловой центр",
+        "metro": {
+          "station_name": "Выставочная",
+          "line_name": "Филевская",
+          "station_id": "4.172",
+          "line_id": "4",
+          "lat": 55.750243,
+          "lng": 37.542641
+        },
+        "metro_stations": [
+          {
+            "station_name": "Выставочная",
+            "line_name": "Филевская",
+            "station_id": "4.172",
+            "line_id": "4",
+            "lat": 55.750243,
+            "lng": 37.542641
+          },
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.603",
+            "line_id": "97",
+            "lat": 55.7491,
+            "lng": 37.5395
+          },
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Солнцевская",
+            "station_id": "133.468",
+            "line_id": "133",
+            "lat": 55.7491,
+            "lng": 37.5395
+          }
+        ],
+        "id": "6157506"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T14:45:55+0300",
+      "created_at": "2022-08-15T14:45:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68793921",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68793921?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68793921/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68793921",
+      "relations": [],
+      "employer": {
+        "id": "4948337",
+        "name": "Артистраж",
+        "url": "https://api.hh.ru/employers/4948337",
+        "alternate_url": "https://hh.ru/employer/4948337",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3932232.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3932231.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/872839.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4948337",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Понимание основ Python. Знание и понимание алгоритмов машинного обучения. Знание и понимание математического моделирования и математического анализа. Опыт работы с...",
+        "responsibility": "Задачи обработки и генерации аудио. Задачи CV (Компьютерного зрения), как генерации так и классификации. Построение моделей, находящих связи между объектами..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68617323",
+      "premium": false,
+      "name": "Senior Data Scientist/ ML Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 4000,
+        "to": 5600,
+        "currency": "EUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T15:51:47+0300",
+      "created_at": "2022-08-15T15:51:47+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68617323",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68617323?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68617323/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68617323",
+      "relations": [],
+      "employer": {
+        "id": "9056361",
+        "name": "ANK Holding",
+        "url": "https://api.hh.ru/employers/9056361",
+        "alternate_url": "https://hh.ru/employer/9056361",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/993549.jpg",
+          "90": "https://hhcdn.ru/employer-logo/5594996.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/5594997.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9056361",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Профиль. Более шести профессионального опыта разработки приложений машинного обучения. Глубокие знания в области machine learning, neural networks, NLP. ",
+        "responsibility": "Ответственность за разработку и внедрение нового торгового алгоритма. Техническое управление командой разработчиков. Ответственность за самые сложные моменты разработки. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "68119068",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 200000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T14:54:09+0300",
+      "created_at": "2022-08-15T14:54:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68119068",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68119068?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68119068/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68119068",
+      "relations": [],
+      "employer": {
+        "id": "936465",
+        "name": "Агент Умный полис",
+        "url": "https://api.hh.ru/employers/936465",
+        "alternate_url": "https://hh.ru/employer/936465",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/843538.png",
+          "240": "https://hhcdn.ru/employer-logo/3815028.png",
+          "90": "https://hhcdn.ru/employer-logo/3815027.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=936465",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт внедрения моделей в продакшн и работы в сфере <highlighttext>Data</highlighttext> Science - будет вашим большим преимуществом! - ориентирован на результат. - ",
+        "responsibility": "Составление моделей сегментирования данных и методик. Обнаружения случаев мошенничества.  Разработка моделей сегментации клиентов на основании их. Профилей и анализа их..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68775081",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "94",
+        "name": "Турция",
+        "url": "https://api.hh.ru/areas/94"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T10:17:59+0300",
+      "created_at": "2022-08-15T10:17:59+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68775081",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68775081?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68775081/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68775081",
+      "relations": [],
+      "employer": {
+        "id": "642001",
+        "name": "Velvetech, LLC",
+        "url": "https://api.hh.ru/employers/642001",
+        "alternate_url": "https://hh.ru/employer/642001",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/798895.jpg",
+          "90": "https://hhcdn.ru/employer-logo/3636467.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3636468.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=642001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "<highlighttext>Data</highlighttext> Mining and BI using SAS, Advertising Tools, Machine Learning, Databases, Big <highlighttext>Data</highlighttext>. Experience in commercial/educational ML/AI projects. ",
+        "responsibility": "Identifying valuable <highlighttext>data</highlighttext> sources, acquiring, processing and cleaning the <highlighttext>data</highlighttext>. Applying <highlighttext>data</highlighttext> science techniques, such as machine learning, statistical modeling..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68768491",
+      "premium": false,
+      "name": "Middle Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T08:50:11+0300",
+      "created_at": "2022-08-15T08:50:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68768491",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68768491?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68768491/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68768491",
+      "relations": [],
+      "employer": {
+        "id": "3887903",
+        "name": "1Fit",
+        "url": "https://api.hh.ru/employers/3887903",
+        "alternate_url": "https://hh.ru/employer/3887903",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4090644.png",
+          "90": "https://hhcdn.ru/employer-logo/4090643.png",
+          "original": "https://hhcdn.ru/employer-logo-original/912490.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3887903",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Умение построения предиктивных моделей и их интерпретация для бизнеса с последующим выкатом в прод. — Владение основными инструментами <highlighttext>Data</highlighttext> Science на...",
+        "responsibility": "Участие в подготовке данных, изучение научных статей, анализ данных, разработка моделей и их адаптация для бизнеса. — Погружение в поведенческий паттерн..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "67716548",
+      "premium": false,
+      "name": "Lead Data Scientist (Yepp)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "236",
+        "name": "Кипр",
+        "url": "https://api.hh.ru/areas/236"
+      },
+      "salary": {
+        "from": 6000,
+        "to": 10000,
+        "currency": "EUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-14T19:49:49+0300",
+      "created_at": "2022-08-14T19:49:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=67716548",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/67716548?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/67716548/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/67716548",
+      "relations": [],
+      "employer": {
+        "id": "1212374",
+        "name": "FUNCORP",
+        "url": "https://api.hh.ru/employers/1212374",
+        "alternate_url": "https://hh.ru/employer/1212374",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/955499.jpg",
+          "90": "https://hhcdn.ru/employer-logo/4262524.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/4262525.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1212374",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Что надо знать и уметь: Нужно быть теоретически подкованным и знать: Технологии генеративных сетей.",
+        "responsibility": "Систему честного разделения доходов от рекламы с авторами мемов. Распознавание и замена текста разных начертаний и языков. Распознавание и замена..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68775077",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T10:17:59+0300",
+      "created_at": "2022-08-15T10:17:59+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68775077",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68775077?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68775077/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68775077",
+      "relations": [],
+      "employer": {
+        "id": "642001",
+        "name": "Velvetech, LLC",
+        "url": "https://api.hh.ru/employers/642001",
+        "alternate_url": "https://hh.ru/employer/642001",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/798895.jpg",
+          "90": "https://hhcdn.ru/employer-logo/3636467.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3636468.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=642001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "<highlighttext>Data</highlighttext> Mining and BI using SAS, Advertising Tools, Machine Learning, Databases, Big <highlighttext>Data</highlighttext>. Experience in commercial/educational ML/AI projects. ",
+        "responsibility": "Identifying valuable <highlighttext>data</highlighttext> sources, acquiring, processing and cleaning the <highlighttext>data</highlighttext>. Applying <highlighttext>data</highlighttext> science techniques, such as machine learning, statistical modeling..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68127599",
+      "premium": false,
+      "name": "Аналитик данных / Data Scientist",
+      "department": null,
+      "has_test": true,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Новодмитровская улица",
+        "building": "2к1",
+        "description": null,
+        "lat": 55.804936,
+        "lng": 37.589922,
+        "raw": "Москва, Новодмитровская улица, 2к1",
+        "metro": {
+          "station_name": "Дмитровская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.35",
+          "line_id": "9",
+          "lat": 55.808056,
+          "lng": 37.581734
+        },
+        "metro_stations": [
+          {
+            "station_name": "Дмитровская",
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.35",
+            "line_id": "9",
+            "lat": 55.808056,
+            "lng": 37.581734
+          }
+        ],
+        "id": "721759"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-12T17:43:50+0300",
+      "created_at": "2022-08-12T17:43:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68127599",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68127599?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68127599/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68127599",
+      "relations": [],
+      "employer": {
+        "id": "779",
+        "name": "ЭКОПСИ Консалтинг",
+        "url": "https://api.hh.ru/employers/779",
+        "alternate_url": "https://hh.ru/employer/779",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/233351.jpg",
+          "240": "https://hhcdn.ru/employer-logo/677514.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/677513.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=779",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование высшее: социальные науки (психология / социология / экономика) или IT / математика / физика. Знание английского (чтение профессиональной литературы). Высокий уровень самостоятельности и...",
+        "responsibility": "Анализ результатов проектов и разработка рекомендаций по улучшению оценочных инструментов. Работа с психометрическими данными, внедрение IRT в тесты. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68077822",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": null,
+        "to": 220000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-12T18:13:24+0300",
+      "created_at": "2022-08-12T18:13:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68077822",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68077822?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68077822/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68077822",
+      "relations": [],
+      "employer": {
+        "id": "5179890",
+        "name": "Enjoypro",
+        "url": "https://api.hh.ru/employers/5179890",
+        "alternate_url": "https://hh.ru/employer/5179890",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/813811.png",
+          "240": "https://hhcdn.ru/employer-logo/3696132.png",
+          "90": "https://hhcdn.ru/employer-logo/3696131.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5179890",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в качестве дата аналитика от 3-х лет . Хорошо писать код на python и умело оперировать основными аналитическими...",
+        "responsibility": "Выборки на python для последующего запуска целевых кампаний. Анализ запусков с точки зрения эффективности (посегментный, общий). Различная отчетность по CVM. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68165505",
+      "premium": false,
+      "name": "Data scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Станиславского",
+        "building": "21с2",
+        "description": null,
+        "lat": 55.745716,
+        "lng": 37.663539,
+        "raw": "Москва, улица Станиславского, 21с2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5565574"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-13T16:05:38+0300",
+      "created_at": "2022-08-13T16:05:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68165505",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68165505?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68165505/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68165505",
+      "relations": [],
+      "employer": {
+        "id": "2942396",
+        "name": "СтандартПроект",
+        "url": "https://api.hh.ru/employers/2942396",
+        "alternate_url": "https://hh.ru/employer/2942396",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/5393160.png",
+          "240": "https://hhcdn.ru/employer-logo/5393161.png",
+          "original": "https://hhcdn.ru/employer-logo-original/964785.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2942396",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Обязательно: 1. Опыт работы аналитиком от 1 года. Ждем от кандидата проактивного подхода к решению задач и критическое восприятие результатов...",
+        "responsibility": "1. 20% Взаимодействие с заказчиками и подрядчиками (обсуждение аналитических задач). 2. 30% Анализ данных. 3. 30% Разработка аналитических правил для..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68648097",
+      "premium": false,
+      "name": "Data Scientist (Middle)",
+      "department": {
+        "id": "bil-4934-it",
+        "name": "билайн: ИТ, Data, Digital"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-13T12:55:31+0300",
+      "created_at": "2022-08-13T12:55:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68648097",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68648097?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68648097/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68648097",
+      "relations": [],
+      "employer": {
+        "id": "4934",
+        "name": "билайн",
+        "url": "https://api.hh.ru/employers/4934",
+        "alternate_url": "https://hh.ru/employer/4934",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/902351.png",
+          "90": "https://hhcdn.ru/employer-logo/4050091.png",
+          "240": "https://hhcdn.ru/employer-logo/4050092.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4934",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Мы рассчитываем, что у тебя есть опыт и знания для этой позиции: Уверенное владение Python и основными ML-библиотеками (numpy...",
+        "responsibility": "Решать бизнес-задачи с помощью анализа данных и машинного обучения. Проводить поиск, выгрузку, статистический анализ и обработку данных. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68757015",
+      "premium": false,
+      "name": "Data scientist",
+      "department": {
+        "id": "3529-3529-it",
+        "name": "Сбер. IT"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-14T13:22:03+0300",
+      "created_at": "2022-08-14T13:22:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68757015",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68757015?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68757015/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68757015",
+      "relations": [],
+      "employer": {
+        "id": "3529",
+        "name": "СБЕР",
+        "url": "https://api.hh.ru/employers/3529",
+        "alternate_url": "https://hh.ru/employer/3529",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/868362.JPG",
+          "90": "https://hhcdn.ru/employer-logo/3914323.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3914324.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3529",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание подходов к тестированию моделей машинного обучения. Достаточный математический бэкграунд для решения перечисленных задач, отличное знание теории вероятностей и математической...",
+        "responsibility": "Развитие технологий лицевой и голосовой биометрии. Обучение новых и улучшение показателей существующих моделей. Валидация разрабатываемых моделей. Взаимодействие с командой разработки."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68404264",
+      "premium": false,
+      "name": "Data Scientist c опытом NLP (Middle / Senior)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 300000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Большая Морская улица",
+        "building": "57",
+        "description": null,
+        "lat": 59.931161,
+        "lng": 30.301809,
+        "raw": "Санкт-Петербург, Большая Морская улица, 57",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6623667"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-14T16:10:08+0300",
+      "created_at": "2022-08-14T16:10:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68404264",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68404264?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68404264/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68404264",
+      "relations": [],
+      "employer": {
+        "id": "887841",
+        "name": "РЕСТАДВАЙЗЕР",
+        "url": "https://api.hh.ru/employers/887841",
+        "alternate_url": "https://hh.ru/employer/887841",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=887841",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Мы РЕСТАДВАЙЗЕР – IT компания с опытом более 6 лет и с успешно реализованными проектами на базе машинного обучения, обработки естественного...",
+        "responsibility": "Исследовать и разработать гибридный алгоритм предикативной модели в финансовом секторе на основе сентимент-анализа."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68619255",
+      "premium": false,
+      "name": "Data Scientist (MTS AI)",
+      "department": {
+        "id": "mts-3776-it",
+        "name": "«МТС», IT"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Подсосенский переулок",
+        "building": "23с5",
+        "description": null,
+        "lat": 55.75553,
+        "lng": 37.654754,
+        "raw": "Москва, Подсосенский переулок, 23с5",
+        "metro": {
+          "station_name": "Курская",
+          "line_name": "Арбатско-Покровская",
+          "station_id": "3.70",
+          "line_id": "3",
+          "lat": 55.758564,
+          "lng": 37.659039
+        },
+        "metro_stations": [
+          {
+            "station_name": "Курская",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.70",
+            "line_id": "3",
+            "lat": 55.758564,
+            "lng": 37.659039
+          },
+          {
+            "station_name": "Курская",
+            "line_name": "МЦД - 2",
+            "station_id": "132.726",
+            "line_id": "132",
+            "lat": 55.757622,
+            "lng": 37.660767
+          },
+          {
+            "station_name": "Чкаловская",
+            "line_name": "Люблинско-Дмитровская",
+            "station_id": "10.72",
+            "line_id": "10",
+            "lat": 55.755951,
+            "lng": 37.659293
+          }
+        ],
+        "id": "7057162"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T10:54:37+0300",
+      "created_at": "2022-08-15T10:54:37+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68619255",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68619255?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68619255/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68619255",
+      "relations": [],
+      "employer": {
+        "id": "3776",
+        "name": "МТС",
+        "url": "https://api.hh.ru/employers/3776",
+        "alternate_url": "https://hh.ru/employer/3776",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3096661.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3096660.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/663882.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3776",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Умение работать с git. Опыт использования docker, CI/CD. Знание математической статистики. Опыт работы <highlighttext>data</highlighttext> <highlighttext>scientist</highlighttext>/analyst/engineer от 3...",
+        "responsibility": "Сбор и обработка данных из корпоративных информационных хранилищ. Формирование набора данных для обучения моделей. Визуализация данных. Прогнозирование временных рядов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68121292",
+      "premium": false,
+      "name": "Data Scientist",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити",
+        "building": null,
+        "description": null,
+        "lat": 55.749451,
+        "lng": 37.542824,
+        "raw": "Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити",
+        "metro": {
+          "station_name": "Выставочная",
+          "line_name": "Филевская",
+          "station_id": "4.172",
+          "line_id": "4",
+          "lat": 55.750243,
+          "lng": 37.542641
+        },
+        "metro_stations": [
+          {
+            "station_name": "Выставочная",
+            "line_name": "Филевская",
+            "station_id": "4.172",
+            "line_id": "4",
+            "lat": 55.750243,
+            "lng": 37.542641
+          },
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.603",
+            "line_id": "97",
+            "lat": 55.7491,
+            "lng": 37.5395
+          },
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Солнцевская",
+            "station_id": "133.468",
+            "line_id": "133",
+            "lat": 55.7491,
+            "lng": 37.5395
+          }
+        ],
+        "id": "7079309"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T15:35:48+0300",
+      "created_at": "2022-08-15T15:35:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68121292",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68121292?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68121292/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68121292",
+      "relations": [],
+      "employer": {
+        "id": "5937261",
+        "name": "ImagiON",
+        "url": "https://api.hh.ru/employers/5937261",
+        "alternate_url": "https://hh.ru/employer/5937261",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4135173.png",
+          "90": "https://hhcdn.ru/employer-logo/4135172.png",
+          "original": "https://hhcdn.ru/employer-logo-original/923653.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5937261",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы от 1 года. Опыт работы по анализу данных. Знание и понимание алгоритмов машинного обучения. Знание и понимание математического...",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68804929",
+      "premium": false,
+      "name": "Data Scientist / ML-инженер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Новодмитровская улица",
+        "building": "2к2",
+        "description": null,
+        "lat": 55.804471,
+        "lng": 37.590335,
+        "raw": "Москва, Новодмитровская улица, 2к2",
+        "metro": {
+          "station_name": "Дмитровская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.35",
+          "line_id": "9",
+          "lat": 55.808056,
+          "lng": 37.581734
+        },
+        "metro_stations": [
+          {
+            "station_name": "Дмитровская",
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.35",
+            "line_id": "9",
+            "lat": 55.808056,
+            "lng": 37.581734
+          }
+        ],
+        "id": "2793828"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T17:52:27+0300",
+      "created_at": "2022-08-15T17:52:27+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68804929",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68804929?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68804929/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68804929",
+      "relations": [],
+      "employer": {
+        "id": "6382",
+        "name": "Медиалогия",
+        "url": "https://api.hh.ru/employers/6382",
+        "alternate_url": "https://hh.ru/employer/6382",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/867798.png",
+          "90": "https://hhcdn.ru/employer-logo/3912067.png",
+          "240": "https://hhcdn.ru/employer-logo/3912068.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6382",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Уверенное знание Python и библиотек для работы с данными (numpy, pandas, sklearn, catboost и др.). Умение писать чистый хорошо структурированный...",
+        "responsibility": "Построение и тестирование гипотез. Создание моделей для задач NLP и CV. Доработка и улучшение существующих моделей. Анализ данных из социальных..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "67411146",
+      "premium": false,
+      "name": "Data Scientist, Поиск и Каталог",
+      "department": {
+        "id": "ozonru-2180-dev",
+        "name": "Ozon Информационные технологии"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Пресненская набережная",
+        "building": "10",
+        "description": null,
+        "lat": 55.7472329566,
+        "lng": 37.5365582907,
+        "raw": "Москва, Пресненская набережная, 10",
+        "metro": {
+          "station_name": "Деловой центр",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.603",
+          "line_id": "97",
+          "lat": 55.7491,
+          "lng": 37.5395
+        },
+        "metro_stations": [
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.603",
+            "line_id": "97",
+            "lat": 55.7491,
+            "lng": 37.5395
+          },
+          {
+            "station_name": "Деловой центр",
+            "line_name": "Солнцевская",
+            "station_id": "133.468",
+            "line_id": "133",
+            "lat": 55.7491,
+            "lng": 37.5395
+          },
+          {
+            "station_name": "Международная",
+            "line_name": "Филевская",
+            "station_id": "4.179",
+            "line_id": "4",
+            "lat": 55.748324,
+            "lng": 37.533282
+          }
+        ],
+        "id": "1522426"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T14:06:43+0300",
+      "created_at": "2022-08-15T14:06:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=67411146",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/67411146?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/67411146/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/67411146",
+      "relations": [],
+      "employer": {
+        "id": "2180",
+        "name": "Ozon",
+        "url": "https://api.hh.ru/employers/2180",
+        "alternate_url": "https://hh.ru/employer/2180",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3391429.png",
+          "240": "https://hhcdn.ru/employer-logo/3391430.png",
+          "original": "https://hhcdn.ru/employer-logo-original/737613.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Автоматическое понимание и обогащение текстовых запросов пользователей. Хорошее знание Python. Опыт решения production DS-задач в интернет-бизнесе (желателен опыт...",
+        "responsibility": "Создание и улучшение алгоритмов ранжирования товаров на сайте (learning to rank). ML-задачи от идеи до реализации в production: изучение..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "68605837",
+      "premium": false,
+      "name": "Data Scientist (Marketplace Efficiency)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-08-15T12:42:53+0300",
+      "created_at": "2022-08-15T12:42:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68605837",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68605837?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68605837/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68605837",
+      "relations": [],
+      "employer": {
+        "id": "2524797",
+        "name": "inDriver",
+        "url": "https://api.hh.ru/employers/2524797",
+        "alternate_url": "https://hh.ru/employer/2524797",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/702160.png",
+          "90": "https://hhcdn.ru/employer-logo/3249756.png",
+          "240": "https://hhcdn.ru/employer-logo/3249757.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2524797",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ожидаем сильный математический background (алгебра, теория вероятностей, статистика). Конечно же нужно знать основные алгоритмы и метрики ML. Обязательно нужен Python...",
+        "responsibility": "Искать инсайты в данных, формулировать и проверять гипотезы, выбирать, обучать и проверять модели ценообразования. Готовить дизайн экспериментов, запускать их, оценивать..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    }
+  ],
+  "found": 240,
+  "pages": 12,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?control_flag=vacancyBlacklistJoinEnabled%3ATrue&enable_snippets=true&search_field=name&text=data+scientist"
+}
